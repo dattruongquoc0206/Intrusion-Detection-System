@@ -5,9 +5,8 @@
 -----------------------------------
 |Class|IE105.N14.CNCL|DS102.N13.CNCL|
 |---|----|----|
-|Contructor|PhD Nguyen Tan Cam|Phd Nguyen Luu Thuy Ngan
-                                Master Luu Thanh Son|
-|Contributot|Truong Quoc Dat| Truong Quoc Dat|
+|Contructor|PhD Nguyen Tan Cam|Phd Nguyen Luu Thuy Ngan - Master Luu Thanh Son|
+|Contributor|Truong Quoc Dat| Truong Quoc Dat|
 |Score|9.5|9.25|
 
 if you want to find some text to test. Please coppy ex below.

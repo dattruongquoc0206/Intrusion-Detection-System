@@ -8,7 +8,7 @@ Full review https://github.com/twelfthywn/Intrusion-Detection-System-by-twelfthy
 |---|----|----|
 |Contructor|PhD Nguyen Tan Cam|Phd Nguyen Luu Thuy Ngan - Master Luu Thanh Son|
 |Contributor|Truong Quoc Dat (Leader) - Huynh Tuan Minh - Pham Nguyen Nam| Truong Quoc Dat (Leader) - Pham Nguyen Nam|
-|Score|9.5/10|9.25/10|
+|Score|9.5/10|9.5/10|
 
 
 if you want to find some text to test. Please coppy ex below.
